@@ -14,7 +14,6 @@
                         "hostname":"api",
                         "essential":false,
 			"memory":128
-		},
 
 		},
 		{
